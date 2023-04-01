@@ -1,0 +1,1 @@
+![CI](https://github.com/DariTat/events/actions/workflows/web.yml/badge.svg)
